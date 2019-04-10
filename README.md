@@ -1,1 +1,3 @@
 # CurrenceConverter
+
+![](demo.gif)
